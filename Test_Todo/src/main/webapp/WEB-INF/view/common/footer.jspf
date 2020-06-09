@@ -1,0 +1,27 @@
+<script src="webjars/jquery/1.9.1/jquery.min.js"></script>
+<script src="webjars/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+<script
+	src="webjars/bootstrap-datepicker/1.0.1/js/bootstrap-datepicker.js"></script>
+
+<style>
+	.footer {
+		position: fixed;
+		left: 0;
+		bottom: 0;
+		width: 100%;
+		background-color: mediumvioletred;
+		color: white;
+		height: 100px;
+		text-align: center;
+	}
+</style>
+
+<div class="footer">
+	Ayush's
+	<h1>
+
+			Todo Manager
+	</h1>
+</div>
+</body>
+</html>

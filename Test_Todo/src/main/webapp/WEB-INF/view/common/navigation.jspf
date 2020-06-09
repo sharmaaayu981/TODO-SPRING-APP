@@ -1,0 +1,10 @@
+
+<nav role="navigation" class="navbar navbar-default">
+	<div class="hello">
+		<h1>Welcome to Ayush's Todo's </h1>
+
+		<a href="/todo/showFormForAdd">Add Todo</a>
+			<a href="/todo/listTodo">View Todos</a>
+
+	</div>
+</nav>
